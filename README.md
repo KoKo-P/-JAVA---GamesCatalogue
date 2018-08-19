@@ -1,4 +1,4 @@
-# -JAVA---GamesCatalogue
+# -JAVA-_GamesCatalogue__SWING__
 
 /**
  * @author Marcin Rudko
